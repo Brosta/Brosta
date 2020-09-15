@@ -1,6 +1,5 @@
 <?php
 
-// Telika i mira tha se pai eki pou theli afti
 
 $install = function() {
 
